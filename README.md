@@ -11,10 +11,10 @@ Tecnologia de IA: Ferramentas de inteligência artificial para geração de imag
 
 **Canva - Plataforma de Design Gráfico Online**
 
-📌 Visão Geral
+**📌 Visão Geral**
 O Canva é uma plataforma de design gráfico baseada na web que oferece ferramentas intuitivas para a criação de materiais visuais diversos, como apresentações, posts para redes sociais, materiais impressos e muito mais. Com uma interface acessível e recursos poderosos, o Canva é amplamente utilizado por profissionais de marketing, designers, empreendedores e usuários que buscam praticidade na criação de conteúdo visual.
 
-🚀 Recursos Principais
+**🚀 Recursos Principais**
 - Interface intuitiva: Editor de arrastar e soltar para facilitar a personalização dos designs.
 - Biblioteca de templates: Milhares de modelos prontos para diferentes necessidades.
 - Elementos gráficos e fontes: Acervo extenso de imagens, vídeos, ícones e tipografias.
@@ -23,23 +23,23 @@ O Canva é uma plataforma de design gráfico baseada na web que oferece ferramen
 - Exportação em múltiplos formatos: PNG, JPG, PDF, MP4, entre outros.
 - Impressão de materiais: Serviço integrado para impressão e entrega de designs físicos.
 
-🛠️ Como Utilizar
+**🛠️ Como Utilizar**
 1. Acesse o Canva e crie uma conta.
 2. Escolha um template ou inicie um design personalizado.
 3. Edite com imagens, textos e elementos gráficos.
 4. Exporte e compartilhe seu design conforme necessário.
 5. Utilize a opção de impressão para transformar seu design em material físico.
 
-🔧 Instalação e Acesso
+**🔧 Instalação e Acesso**
 O Canva é acessível diretamente pelo navegador e possui aplicativos para iOS e Android. Além disso, há uma versão desktop disponível para sistemas operacionais compatíveis.
 
-🔑 Licenciamento e Planos
+**🔑 Licenciamento e Planos**
 O Canva oferece versões **Gratuita** e **Pro**, além de opções para empresas e equipes. As versões premium incluem funcionalidades avançadas, como acesso a recursos exclusivos e ferramentas de IA.
 
-📞 Suporte e Contato
+**📞 Suporte e Contato**
 Para dúvidas ou suporte, acesse a (https://www.canva.com/help/) ou entre em contato pelo suporte oficial.
 
-📜 Licença
+**📜 Licença**
 Os designs criados podem estar sujeitos a direitos autorais, dependendo dos elementos utilizados. Consulte a política de uso do Canva para mais informações.
 
 
